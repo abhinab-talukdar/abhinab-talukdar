@@ -29,3 +29,6 @@
 
 ### Languages and Tools:
 - Java, JavaScript, Zephyr, TestRail, JIRA, Selenium, TestNG, Postman, JMeter, Appium, HTML5, CSS3, Python
+
+## My GitHub Stats
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&hide=html,css&layout=compact)
