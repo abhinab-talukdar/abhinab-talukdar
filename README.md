@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Abhinab Talukdar
 
 ## 🔭 I’m currently working on 
-- API Testing, Swagger, Python, Automation Frameworks
+- API Testing, Swagger, Java, Automation Frameworks
 
 ## 🌱 I’m currently learning 
 - Cucumber, Cypress
